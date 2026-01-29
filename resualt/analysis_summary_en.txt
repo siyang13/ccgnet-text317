@@ -1,0 +1,9 @@
+Qwen API Eutectic Analysis Summary Report
+==================================================
+Generated: 2026-01-11 21:57:06
+Input file: D:/课业/毕业设计/ccgnet-main_shiyan/ccgnet-main/data/CC_Table/CC_Table_converted - repair.tab
+Output file: D:/课业/毕业设计/ccgnet-main_shiyan/ccgnet-main/data/AI/eutectic_analysis_results.csv
+Total rows processed: 5
+Conclusion distribution: Yes=0, No=0, Unknown=5
+Success rate: 5/5 (100.0%)
+==================================================

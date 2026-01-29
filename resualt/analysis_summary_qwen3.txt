@@ -1,0 +1,10 @@
+千问Qwen3-max API共晶分析摘要报告
+==================================================
+生成时间: 2026-01-14 20:41:15
+使用模型: qwen3-max (免费额度)
+输入文件: D:/课业/毕业设计/ccgnet-main_shiyan/ccgnet-main/data/CC_Table/CC_Table_converted - repair.tab
+输出文件: D:/课业/毕业设计/ccgnet-main_shiyan/ccgnet-main/data/AI/eutectic_analysis_results_qwen3.csv
+开始行: 3298
+总处理行数: 4587
+成功率: 4587/4587 (100.0%)
+==================================================
